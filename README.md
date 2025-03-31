@@ -7,7 +7,7 @@ Welcome to my journey towards becoming a certified **Data Analyst** through [Dat
 The **Data Analyst Certification** by DataCamp is a professional credential that validates the essential skills needed to work with data, including data wrangling, visualization, statistical analysis, and communication of insights.
 
 ### 🔍 What You'll Learn:
-- Python and/or R for data analysis
+- Python for data analysis
 - Data cleaning and manipulation using libraries like pandas or dplyr
 - Data visualization with tools like Matplotlib, Seaborn, or ggplot2
 - Exploratory data analysis (EDA)
@@ -25,10 +25,9 @@ The certification includes:
 ## 📂 Repository Structure
 
 This repository includes:
-- `notebooks/` – practice notebooks and case study solutions
-- `sql/` – SQL queries and practice questions
-- `visualizations/` – data visualizations and dashboards
-- `notes/` – summaries and key takeaways from courses and assessments
+- `notebook.ipynb` – practice notebooks and case study solutions
+- `product_sales.csv` – database
+
 
 ## 🎯 Goals
 
@@ -38,6 +37,6 @@ This repository includes:
 
 ---
 
-✅ **Status**: In Progress / Completed (Update as needed)
+✅ **Status**: Completed 
 
 Feel free to explore the repo, leave feedback, or fork it if you're also working toward your certification. Let's learn together! 🚀
