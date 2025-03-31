@@ -26,7 +26,8 @@ The certification includes:
 
 This repository includes:
 - `notebook.ipynb` – practice notebooks and case study solutions
-- `product_sales.csv` – database
+- `product_sales.csv` – database for use case
+- `Sales Report.pdf` – presentation with a recognizable narrative that is supported by the findings of the data analysis
 
 
 ## 🎯 Goals
